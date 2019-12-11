@@ -23,3 +23,5 @@ here:
 ```
 https://www.balena.io/etcher/
 ```
+
+![](etcher.gif)

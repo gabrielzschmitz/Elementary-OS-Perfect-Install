@@ -10,7 +10,7 @@ Before of all if you will use a Dual Boot with Windows install Windows 10, the o
 
 ## Get the System
 
-Download or purchase Elementary OS from here: [Elementary OS](https://elementary.io/) (just click it)
+Download or purchase Elementary OS from here: [Elementary OS (just click it)](https://elementary.io/)
 
 ## Get the Bootable Pen Drive
 You can use Rufus, Universal USB Installer, or Image Burner, but I prefer to use Etcher to that, and you can download it from

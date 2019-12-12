@@ -45,5 +45,7 @@ screen.
 
 ## Start Installation
 
-Once it boots in to formatting screen, you’ll be provided to Try Elementary OS or Install Elementary OS. No need to tell you what to do here.
+If you want a video about how to install [click here](https://www.youtube.com/watch?v=S7bKOK9m3tM). Once it boots in to 
+formatting screen, you’ll be provided to Try Elementary OS or Install Elementary OS. No need to tell you 
+what to do here.
 

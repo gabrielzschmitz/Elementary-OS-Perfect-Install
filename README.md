@@ -45,8 +45,8 @@ screen.
 
 ## Start Installation
 
-If you want a video about how to install[click here](https://www.youtube.com/watch?v=S7bKOK9m3tM) (credits to 
-[Riba Linux](https://www.youtube.com/user/TheRibalinux)). But if not let me explain how to install, once it boots in to 
+If you want a video about how to install [click here](https://www.youtube.com/watch?v=S7bKOK9m3tM) (credits to 
+[Riba Linux](https://www.youtube.com/user/TheRibalinux)). But if not let me explain you how, once it boots in to 
 formatting screen, you’ll be provided to "Try elementary" or "Install elementary". No need to tell you what to do here.
 
 ![](pictures/installation1.png)

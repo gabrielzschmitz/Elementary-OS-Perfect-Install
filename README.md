@@ -1,20 +1,21 @@
 # How to Make the Perfect Elementary OS Install
-[google](https://www.google.com/){:target="_blank"}
+
 In this article I will try to instruct you about how to install, update, personalize and install the essencial programs in
 Elementary OS 5.1 Hera.
 
 ## Disclaimer
 
 Before of all if you will use a Dual Boot with Windows install Windows 10, the other versions are apparently not more supported
-(I had tested with Windows 8.1), and sorry by the bad English.
+(I had tested with Windows 8.1). When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new 
+tab.
 
 ## Get the System
 
-Download or purchase Elementary OS from here: [Elementary OS (click with ctrl)](https://elementary.io/)
+Download or purchase Elementary OS from here: [Elementary OS](https://elementary.io/)
 
 ## Get the Bootable Pen Drive
 You can use Rufus, Universal USB Installer, or Image Burner, but I prefer to use Etcher to that, and you can download it from
-here: [Balena Etcher(click with ctrl)](https://www.balena.io/etcher/)
+here: [Balena Etcher](https://www.balena.io/etcher/)
 
 ### How to use Balena Etcher
 
@@ -22,8 +23,3 @@ After install just open it, select the system iso, the right pen drive and click
 close the program.
 
 ![](gifs/etcher-tutorial.gif)
-
-# Some markdown
-*click below*
-<a href="example.com" target="_blank">New Tab</a>
-...

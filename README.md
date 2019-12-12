@@ -25,7 +25,7 @@ https://www.balena.io/etcher/
 ```
 ### How to use Balena Etcher
 
-After install just open it, select the system iso, the right pen drive and click "Flash!"
-Wait until the end process and then close the program.
+After install just open it, select the system iso, the right pen drive and click "Flash!". Wait until the process end and then 
+close the program.
 
 ![](etcher.gif)

@@ -22,3 +22,5 @@ After install just open it, select the system iso, the right pen drive and click
 close the program.
 
 ![](gifs/etcher-tutorial.gif)
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}

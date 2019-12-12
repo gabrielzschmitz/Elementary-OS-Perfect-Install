@@ -13,7 +13,7 @@ Before of all if you will use a Dual Boot with Windows install Windows 10, the o
 Download or purchase Elementary OS from here:
 
 ```
-https://elementary.io/
+[https://elementary.io/](https://elementary.io/)
 ```
 
 ## Get the Bootable Pen Drive

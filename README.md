@@ -26,12 +26,20 @@ close the program.
 
 ## Configure the BIOS and Start Formatting
 
-Now shut down your computer,plug your pen drive and acess your BIOS, usually its by pressing F2, F10, F11 or DEL.
+Now shut down your computer, plug your pen drive and acess the BIOS, usually its by pressing F2, F10, F11 or DEL.
 But if that dont work for you search for your motherboard or laptop model and see how do you get into the BIOS.
+
+### Disable Secure Boot
+
 Already in the BIOS if your PC is old you need to disable the secure boot,but if not you can jump to the next step.
 
 ![](pictures/secureboot.jpeg)
 
-Change the boot order of the BIOS, browse through the BIOS and make sure that your USB is the first of boot order.
+### Change Boot Order
+
+Browse through the BIOS and make sure that your USB is the first of boot order.
 Now just save the config and restart the computer with the USB plugged and the logo of Elementary Os will blink in your
 screen.
+
+![](pictures/bootorder.jpeg)
+

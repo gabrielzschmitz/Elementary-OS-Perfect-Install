@@ -14,11 +14,8 @@ Download or purchase Elementary OS from here: [Elementary OS (just click it)](ht
 
 ## Get the Bootable Pen Drive
 You can use Rufus, Universal USB Installer, or Image Burner, but I prefer to use Etcher to that, and you can download it from
-here:
+here: [Balena Etcher(just click it)](https://www.balena.io/etcher/)
 
-```
-https://www.balena.io/etcher/
-```
 ### How to use Balena Etcher
 
 After install just open it, select the system iso, the right pen drive and click "Flash!". Wait until the process end and then 

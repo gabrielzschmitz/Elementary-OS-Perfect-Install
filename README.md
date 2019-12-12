@@ -7,7 +7,7 @@ Elementary OS 5.1 Hera.
 
 Before of all if you will use a Dual Boot with Windows install Windows 10, the other versions are apparently not more supported
 (I had tested with Windows 8.1). When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new 
-tab.
+tab and dont close this article.
 
 ## Get the System
 

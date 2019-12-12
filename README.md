@@ -50,3 +50,7 @@ how to install, once it boots in to formatting screen, you’ll be provided to "
 need to tell you what to do here.
 
 ![](pictures/installation1.png)
+
+Select the keyboard layout
+
+![](pictures/installation2.png)

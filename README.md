@@ -23,3 +23,5 @@ After install just open it, select the system iso, the right pen drive and click
 close the program.
 
 ![](gifs/etchertuturial.gif)
+
+![](gifs/etcher depois de editar.mp4)

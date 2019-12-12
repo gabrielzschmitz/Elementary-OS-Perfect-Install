@@ -28,4 +28,4 @@ https://www.balena.io/etcher/
 After install just open it, select the system iso, the right pen drive and click "Flash!". Wait until the process end and then 
 close the program.
 
-![](etcher.gif)
+![](gifs/etcher.gif)

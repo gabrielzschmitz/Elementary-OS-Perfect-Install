@@ -24,4 +24,4 @@ close the program.
 
 ![](gifs/etchertuturial.gif)
 
-![](gifs/etcher depois de editar.mp4)
+![](etcher depois de editar.mp4)

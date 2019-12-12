@@ -10,11 +10,11 @@ Before of all if you will use a Dual Boot with Windows install Windows 10, the o
 
 ## Get the System
 
-Download or purchase Elementary OS from here: [Elementary OS (just click it)](https://elementary.io/)
+Download or purchase Elementary OS from here: [Elementary OS (click with ctrl)](https://elementary.io/)
 
 ## Get the Bootable Pen Drive
 You can use Rufus, Universal USB Installer, or Image Burner, but I prefer to use Etcher to that, and you can download it from
-here: [Balena Etcher(just click it)](https://www.balena.io/etcher/)
+here: [Balena Etcher(click with ctrl)](https://www.balena.io/etcher/)
 
 ### How to use Balena Etcher
 
@@ -22,5 +22,3 @@ After install just open it, select the system iso, the right pen drive and click
 close the program.
 
 ![](gifs/etcher-tutorial.gif)
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}

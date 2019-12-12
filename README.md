@@ -1,5 +1,5 @@
 # How to Make the Perfect Elementary OS Install
-
+[google](https://www.google.com/){:target="_blank"}
 In this article I will try to instruct you about how to install, update, personalize and install the essencial programs in
 Elementary OS 5.1 Hera.
 
@@ -22,3 +22,8 @@ After install just open it, select the system iso, the right pen drive and click
 close the program.
 
 ![](gifs/etcher-tutorial.gif)
+
+# Some markdown
+*click below*
+<a href="example.com" target="_blank">New Tab</a>
+...

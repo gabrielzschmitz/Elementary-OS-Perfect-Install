@@ -43,3 +43,7 @@ screen.
 
 ![](pictures/bootorder.jpeg)
 
+## Start Installation
+
+Once it boots in to formatting screen, you’ll be provided to Try Elementary OS or Install Elementary OS. No need to tell you what to do here.
+

@@ -11,9 +11,9 @@ Before of all if you will use a Dual Boot with Windows install Windows 10, the o
 ## Get the System
 
 Download or purchase Elementary OS from here:
-
-```
 [Elementary OS](https://elementary.io/)
+```
+[Petersen Graph][reference-id-for-petersen-graph][reference-id-for-petersen-graph]:https://en.wikipedia.org/wiki/Petersen_graph
 ```
 
 ## Get the Bootable Pen Drive

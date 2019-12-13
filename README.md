@@ -74,15 +74,35 @@ on "Install elementary alongside (the other system)" and after the choice click 
 
 ### 5.1-
 
-Choicing to erase disk and install elementary this pop-up will appear to advise that you will lose all the data and 
+Choosing to erase disk and install elementary this pop-up will appear to advise that you will lose all the data and 
 partitions of your HD. So with that on mind click "Continue".
 
 ![](pictures/installation05.png)
 
 ### 5.2-
 
-Choicing to install alongside other system the other step is slice your HD/SSD with this bar. Just divide how much of your 
+Choosing to install alongside other system the other step is slice your HD/SSD with this bar. Just divide how much of your 
 space will be use to the 2 system. Tip: if you are using Elemetary OS just to learn how it works something between 20 and 
 50GB is more than enough.
 
 ![](pictures/installation05ifdualboot.png)
+
+### 6-
+
+Regardless of which step 5 you chose the other screen will be that and here the only thing you need fill is in witch 
+timezone, but normally it will detect alone.
+
+![](pictures/installation06.png)
+
+### 7-
+
+Next you just need to fill with your personal information. Tip for the password try to choose something with at most 8 or 10 
+characters cause you will need to write this a lot of times in the terminal, app center and many others.
+
+![](pictures/installation07.png)
+
+### 8-
+
+Now its all done, just wait.
+
+![](pictures/installation08.png)

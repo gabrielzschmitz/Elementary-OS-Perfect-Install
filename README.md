@@ -106,3 +106,9 @@ characters cause you will need to write this a lot of times in the terminal, app
 Now its all done, just wait.
 
 ![](pictures/installation08.png)
+
+# Now lets configure it
+
+## First, just read the "Get Started"
+
+![](gifs/getstarted.gif)

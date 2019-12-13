@@ -49,13 +49,13 @@ If you want a video about how to install [click here](https://www.youtube.com/wa
 [Riba Linux](https://www.youtube.com/user/TheRibalinux)). But if not let me explain you how, once it boots in to 
 formatting screen, you’ll be provided to "Try elementary" or "Install elementary". No need to tell you what to do here.
 
-![](pictures/installation1.png)
+![](pictures/installation01.png)
 
 Select the keyboard layout.
 
-![](pictures/installation2.png)
+![](pictures/installation02.png)
 
 Check the two boxes an then click "Continue".
 
-![](pictures/installation3.png)
+![](pictures/installation03.png)
 

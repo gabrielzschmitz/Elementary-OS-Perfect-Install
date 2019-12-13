@@ -45,7 +45,7 @@ screen.
 
 ## Start Installation
 
-#### 1
+#### 1-
 If you want a video about how to install [click here](https://www.youtube.com/watch?v=S7bKOK9m3tM) (credits to 
 [Riba Linux](https://www.youtube.com/user/TheRibalinux)). But if not let me explain you how, once it boots in to 
 formatting screen, you’ll be provided to "Try elementary" or "Install elementary" and on left the lenguage of the system. No 
@@ -53,15 +53,16 @@ need to tell you what to do here.
 
 ![](pictures/installation01.png)
 
-#### 2
+#### 2-
 
 Select the keyboard layout.
 
 ![](pictures/installation02.png)
 
-#### 3
+#### 3-
 
 Check the two boxes an then click "Continue".
 
 ![](pictures/installation03.png)
 
+#### 4-

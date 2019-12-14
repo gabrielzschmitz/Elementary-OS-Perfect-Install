@@ -14,10 +14,6 @@ open in a new tab and dont close this article.
 
 # After install lets configure it:
 
-## First, just read the "Get Started"
-
-![](gifs/getstarted.gif)
-
 ## Update the system ##
 
 ```

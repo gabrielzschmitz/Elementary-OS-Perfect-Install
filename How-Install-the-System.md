@@ -110,3 +110,5 @@ lot of times in the terminal, app center and many others.
 # After all, just **read** the **"Get Started"**.
 
 ![](gifs/getstarted.gif)
+
+#Now return to the main page by [clicking here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install)

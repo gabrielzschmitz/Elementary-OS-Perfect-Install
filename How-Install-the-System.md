@@ -1,5 +1,5 @@
 # If you want to make an Dual Boot with Windows
-* **Only** install the Windows 10, the others apparently are not reconized.
+* **Only** install the Windows 10, the others apparently are not recognized anymore.
 * Install it **Before** the Elementary OS.
 
 # Get the System

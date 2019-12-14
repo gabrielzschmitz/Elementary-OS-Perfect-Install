@@ -35,15 +35,15 @@ step.
 ## Change Boot Order
 
 * Browse through the BIOS and make sure that your **USB is the first of boot order**.
-* Then just save the config and restart the computer with the USB plugged and the logo of Elementary Os will blink in your
-screen.
+* Then just **save the config** and restart the computer with the **USB plugged** and the logo of Elementary Os will blink 
+in your screen.
 
 ![](pictures/bootorder.jpg)
 
 # Start Installation
 
 ## 1-
-* If you want a video about how to install [click here](https://www.youtube.com/watch?v=S7bKOK9m3tM) (credits to 
+* If you want a video about how to install just [click here](https://www.youtube.com/watch?v=S7bKOK9m3tM) (credits to 
 [Riba Linux](https://www.youtube.com/user/TheRibalinux)).
 * But if not let me explain you how, once it boots in to formatting screen, you’ll be provided to **"Try elementary"** or 
 **"Install elementary"** and on left the **language** of the system. No need to tell you what to do here.

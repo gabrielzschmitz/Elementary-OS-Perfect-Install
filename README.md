@@ -238,23 +238,23 @@ sudo apt install audacity
 
 ## Best Apps from App Center
 
-Best Email Client – Thunderbird
-Best Free Office Suite – LibreOffice (previously installed)
-Best Password Manager – Dashlane(Just Add to the Browser)
-Best Partition Manager – Gparted
-Best PDF Editor – LibreOffice Draw
-Best Screen Recorder – OBS
-Best Torrent Client – Transmission
-Best FTP Client – FileZilla
-Best Note Taking App – Notejot
-Best Video Editing Software – Kdenlive (for Basic Edits, previously installed)Davinci Resolve (for Advanced Edits, download 
-from them site)
-Best Download Manager – uGet
-Best Video Players – VLC
-Best Google Drive Client – VGrive
-Best Web Browser – Chromium or Google Chrome
-Best Media Server Software – Kodi
-Best Cloud Storage – OwnCloud
+* Best Email Client – Thunderbird
+* Best Free Office Suite – LibreOffice (previously installed)
+* Best Password Manager – Dashlane(Just Add to the Browser)
+* Best Partition Manager – Gparted
+* Best PDF Editor – LibreOffice Draw
+* Best Screen Recorder – OBS
+* Best Torrent Client – Transmission
+* Best FTP Client – FileZilla
+* Best Note Taking App – Notejot
+* Best Video Editing Software – Kdenlive (for Basic Edits, previously installed)Davinci Resolve (for Advanced Edits, 
+download from them site)
+* Best Download Manager – uGet
+* Best Video Players – VLC
+* Best Google Drive Client – VGrive
+* Best Web Browser – Chromium or Google Chrome
+* Best Media Server Software – Kodi
+* Best Cloud Storage – OwnCloud
 
 ## Clean System
 

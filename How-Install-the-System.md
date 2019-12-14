@@ -106,3 +106,7 @@ lot of times in the terminal, app center and many others.
 * Now its all done, **just wait**.
 
 ![](pictures/installation08.png)
+
+# After all, just **read** the **"Get Started"**.
+
+![](gifs/getstarted.gif)

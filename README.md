@@ -131,7 +131,9 @@ sudo apt-get install software-properties-common
 
 ```
 sudo add-apt-repository ppa:philip.scott/elementary-tweaks
+
 sudo apt-get update
+
 sudo apt-get install elementary-tweaks
 ```
 
@@ -157,11 +159,15 @@ sudo apt install chrome
 
 ```
 sudo apt install apt-transport-https curl
+
 curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-
 browser-release.gpg add -
+
 echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee 
 /etc/apt/sources.list.d/brave-browser-release.list
+
 sudo apt update
+
 sudo apt install brave-
 ```
 
@@ -175,6 +181,7 @@ sudo apt install vlc
 
 ```
 sudo apt install gimp
+
 sudo apt install inkscape
 ```
 
@@ -182,7 +189,9 @@ sudo apt install inkscape
 
 ```
 sudo apt install ubuntu-restricted-extras
+
 sudo apt install libavcodec-extra
+
 sudo apt install libdvd-pkg
 ```
 
@@ -190,7 +199,9 @@ sudo apt install libdvd-pkg
 
 ```
 sudo add-apt-repository -y ppa:webupd8team/java
+
 sudo apt-get update
+
 sudo apt-get install oracle-java9-installer
 ```
 
@@ -260,6 +271,8 @@ download from them site)
 
 ```
 sudo apt-get autoclean
+
 sudo apt-get clean
+
 sudo apt-get autoremove
 ```

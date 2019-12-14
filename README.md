@@ -5,9 +5,9 @@ Elementary OS 5.1 Hera.
 
 ## Disclaimer
 
-Before of all if you will use a Dual Boot with Windows install Windows 10, the other versions are apparently not more 
-supported (I had tested with Windows 8.1). When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to 
-open in a new tab and dont close this article.
+* When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new tab and dont close this 
+article.
+* **Notify me** if you find any **grammatical errors**. My English is not one of the best.
 
 ## [If you dont have installed the system click here to read how to!](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md)
 

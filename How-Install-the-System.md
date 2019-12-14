@@ -1,3 +1,7 @@
+#If you want to make an Dual Boot with Windows
+#### ** Only ** install the Windows 10, the others apparently are not reconized, and install it ** Before ** the Elementary 
+OS.
+
 # Get the System
 
 Download or purchase Elementary OS from here: [Elementary OS](https://elementary.io/)

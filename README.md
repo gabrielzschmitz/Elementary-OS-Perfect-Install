@@ -9,8 +9,7 @@ Before of all if you will use a Dual Boot with Windows install Windows 10, the o
 supported (I had tested with Windows 8.1). When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to 
 open in a new tab and dont close this article.
 
-## [If you already installed the system click here to skip this step](https://github.com/gabrielzschmitz/Elementary-OS-
-Perfect-Install/blob/master/README.md#first-just-read-the-get-started)
+## [If you already installed the system click here to skip this step](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#first-just-read-the-get-started)
 
 ## Get the System
 

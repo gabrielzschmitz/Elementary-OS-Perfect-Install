@@ -9,7 +9,7 @@ Elementary OS 5.1 Hera.
 article.
 * **Notify me** if you find any **grammatical errors**. My English is not one of the best.
 
-## [If you dont have installed the system click here to read how to!](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md)
+## If you dont have installed the system [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md) to read how to!
 
 
 # After install lets configure it:

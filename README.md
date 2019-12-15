@@ -146,6 +146,15 @@ sudo apt-get install kdenlive
 sudo apt install audacity
 ```
 
+## Install Soundnode (Souncloud Desktop Client)
+
+```
+curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/script.deb.sh | sudo os=ubuntu dist=xenial bash
+sudo apt-get update
+sudo apt-get install soundnode
+
+```
+
 ## Best Apps from App Center
 
 * Best Email Client – Thunderbird

@@ -43,8 +43,7 @@ in your screen.
 # Start Installation
 
 ## 1-
-* If you want a video about how to install just [click here](https://www.youtube.com/watch?v=S7bKOK9m3tM) (credits to 
-[Riba Linux](https://www.youtube.com/user/TheRibalinux)).
+* If you want a video about how to install just [click here](https://www.youtube.com/watch?v=SOCVFD8vanA) (credits to me](https://www.youtube.com/channel/UCsMUlVzRNZNPyPtSVygoPUQ)).
 * But if not let me explain you how, once it boots in to formatting screen, you’ll be provided to **"Try elementary"** or 
 **"Install elementary"** and on left the **language** of the system. No need to tell you what to do here.
 

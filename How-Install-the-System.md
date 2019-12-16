@@ -81,15 +81,14 @@ partitions of your HD. So with that on mind click **"Continue"**.
 
 * Choosing to install alongside other system the other step is slice your HD/SSD with this bar. Just divide how much of your 
 space will be use to the 2 system by moving this bar.
-* **Tip:** if you are using Elemetary OS just to learn how it works 
-something between 20 and 50GB is more than enough.
+* **Tip:** if you are using Elemetary OS just to learn how it works something between 20 and 50GB is more than enough.
 
 ![](pictures/installation05ifdualboot.png)
 
 ## 6-
 
 * **Regardless of which step 5** you chose the other screen will be that and here the only thing you need **fill** is in 
-witch **timezone** you are, but normally it will detect alone.
+witch **timezone** you are, but normally it will be detected automatically.
 
 ![](pictures/installation06.png)
 

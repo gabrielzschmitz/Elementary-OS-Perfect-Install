@@ -44,7 +44,7 @@ in your screen.
 
 ## 1-
 * If you want a video about how to install just [click here](https://www.youtube.com/watch?v=SOCVFD8vanA) or for Dual Boot 
-install [click here](https://youtu.be/pBZzW_Rx3CU)([credits to me](https://www.youtube.com/channel/UCsMUlVzRNZNPyPtSVygoPUQ)).
+install [click here](https://youtu.be/pBZzW_Rx3CU) ([credits to me](https://www.youtube.com/channel/UCsMUlVzRNZNPyPtSVygoPUQ)).
 * But if not let me explain you how, once it boots in to formatting screen, you’ll be provided to **"Try elementary"** or 
 **"Install elementary"** and on left the **language** of the system. No need to tell you what to do here.
 
@@ -108,6 +108,8 @@ lot of times in the terminal, app center and many others.
 ![](pictures/installation08.png)
 
 ## After all, just **read** the **"Get Started"**.
+
+* Read and select the proper options.
 
 ![](gifs/getstarted.gif)
 

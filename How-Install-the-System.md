@@ -21,8 +21,8 @@ use **Etcher** to that, and you can download it from here: [Balena Etcher](https
 
 # Configure the BIOS and Start Formatting
 
-* Now shut down your computer
-* Plug your pen drive and acess the BIOS, usually its by pressing F2, F10, F11 or DEL.
+* Now **shut down** your computer
+* **Plug** your **pen drive** and **acess** the **BIOS**, usually its by pressing **F2, F10, F11 or DEL**.
 But if that dont work for you search for your motherboard or laptop model and see how do you get into the BIOS.
 
 ## Disable Secure Boot

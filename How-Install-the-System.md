@@ -1,5 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SOCVFD8vanA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # If you want to make an Dual Boot with Windows
 * **Only** install the Windows 10, the others apparently are not recognized anymore;
 * Install it **Before** the Elementary OS.

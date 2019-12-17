@@ -14,7 +14,7 @@ article.
 
 # After install lets configure it:
 
-## Update the system ##
+## Update the system
 
 ```
 sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade

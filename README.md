@@ -12,12 +12,27 @@ article.
 # If you dont have installed the system [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md) to read how to!
 
 
-# After install lets configure it:
+# After Install Lets Configure It:
 
-## Update the system
+* Just copy and paste line by line to the Elementary terminal
+* Disclaimer: && its logical operator that execute the other command only if the previous was successfully executed and ; to 
+execute the next command regardless of the success of the previous command. So I have used that to make the copy and paste 
+faster, but I you display all the commands separately too.
+
+## Update the System
+
+* Commands used to:
 
 ```
-sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt dist-upgrade
+```
+
+* Easy copy and paste:
+
+```
+sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade sudo apt update && sudo apt upgrade
 ```
 
 ## Enable PPA
@@ -26,48 +41,109 @@ sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade
 sudo apt-get install software-properties-common
 ```
 
+## Get your Favorite Browser
+
+### Chrome
+
+* Commands:
+
+```
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+sudo apt-get update
+sudo apt-get install google-chrome-stable
+```
+
+* Easy copy and paste:
+
+```
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - && sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list' && sudo apt-get update ; sudo apt-get install google-chrome-stable
+```
+
+### FireFox
+
+* Commands:
+
+```
+sudo add-apt-repository ppa:mozillateam/firefox-next
+sudo apt update
+sudo apt upgrade
+sudo apt install firefox
+```
+
+* Easy copy and Paste:
+
+```
+sudo add-apt-repository ppa:mozillateam/firefox-next && sudo apt update ; sudo apt upgrade ; sudo apt install firefox
+```
+
+### Brave
+
+* Commands:
+
+```
+sudo apt install apt-transport-https curl
+curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -
+echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+sudo apt update
+sudo apt install brave-browser
+```
+
+* Easy copy and Paste:
+
+```
+sudo apt install apt-transport-https curl ; curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add - && echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list && sudo apt update ; sudo apt install brave-browser
+```
+
+## Clean-up the System
+
+* Commands:
+
+```
+sudo apt-get purge midori-granite
+sudo apt-get purge noise
+sudo apt-get purge software-center
+sudo apt-get purge scratch-text-editor
+sudo apt-get purge bluez
+sudo apt-get purge modemmanager
+sudo apt-get autoremove
+sudo apt-get autoclean
+```
+
+* Easy copy and Paste:
+
+```
+sudo apt-get purge midori-granite ; sudo apt-get purge noise ; sudo apt-get purge software-center ; sudo apt-get purge scratch-text-editor ; sudo apt-get purge bluez ; sudo apt-get purge modemmanager ; sudo apt-get autoremove ; sudo apt-get autoclean
+```
+
+#Install File Compression Libs
+
+```
+sudo apt-get install unace unrar zip unzip xz-utils p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller
+```
+
 ## Install Elementary Tweaks to personalize
+
+* Commands:
 
 ```
 sudo add-apt-repository ppa:philip.scott/elementary-tweaks
-
 sudo apt-get update
-
 sudo apt-get install elementary-tweaks
 ```
+
+* Easy copy and Paste:
+
+```
+sudo add-apt-repository ppa:philip.scott/elementary-tweaks && sudo apt-get update ; sudo apt-get install elementary-tweaks
+```
+
+# Install Useful Programs (Only what you need)
 
 ## Install Office Suite (Libre Office)
 
 ```
 sudo apt install libreoffice
-```
-
-## Install Firefox
-
-```
-sudo apt install firefox
-```
-
-## Install Chrome
-
-```
-sudo apt install chrome
-```
-
-## Install Brave 
-
-```
-sudo apt install apt-transport-https curl
-
-curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-
-browser-release.gpg add -
-
-echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee 
-/etc/apt/sources.list.d/brave-browser-release.list
-
-sudo apt update
-
-sudo apt install brave-
 ```
 
 ## Install VLC
@@ -80,34 +156,39 @@ sudo apt install vlc
 
 ```
 sudo apt install gimp
-
 sudo apt install inkscape
 ```
 
 ## Install Multimidea Codecs
 
+* Commands:
+
 ```
 sudo apt install ubuntu-restricted-extras
-
 sudo apt install libavcodec-extra
-
 sudo apt install libdvd-pkg
+```
+
+* Easy copy and Paste:
+
+```
+sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; sudo apt install libdvd-pkg
 ```
 
 ## Install Java
 
+* Commands:
+
 ```
 sudo add-apt-repository -y ppa:webupd8team/java
-
 sudo apt-get update
-
 sudo apt-get install oracle-java9-installer
 ```
 
-## Install Archieve Formats
+* Easy copy and Paste:
 
 ```
-sudo apt-get install unace rar unrar p7zip-rar p7zip sharutils uudeview mpack arj cabextract lzip lunzip
+sudo add-apt-repository -y ppa:webupd8team/java && sudo apt-get update ; sudo apt-get install oracle-java9-installer
 ```
 
 ## Install Transmission (Torrent Application)
@@ -148,12 +229,21 @@ sudo apt install audacity
 
 ## Install Soundnode (Souncloud Desktop Client)
 
+* Commands:
+
 ```
 curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/script.deb.sh | sudo os=ubuntu dist=xenial bash
 sudo apt-get update
 sudo apt-get install soundnode
 
 ```
+
+* Easy copy and paste:
+
+```
+curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/script.deb.sh | sudo os=ubuntu dist=xenial bash && sudo apt-get update ; sudo apt-get install soundnode
+```
+
 
 ## Best Apps from App Center
 

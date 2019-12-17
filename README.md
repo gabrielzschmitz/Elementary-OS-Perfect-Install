@@ -43,6 +43,10 @@ sudo apt-get install software-properties-common
 
 ## Get your Favorite Browser
 
+* Chrome
+* Firefox
+* Brave
+
 ### Chrome
 
 * Commands:
@@ -142,9 +146,15 @@ sudo add-apt-repository ppa:philip.scott/elementary-tweaks && sudo apt-get updat
 
 ## Install Office Suite (Libre Office)
 
+* You can dowload it from here: https://www.libreoffice.org/download/download/
+Or install using flatpack: https://flathub.org/apps/details/org.libreoffice.LibreOffice
+Or install by terminal with this command:
+
 ```
 sudo apt install libreoffice
 ```
+
+but the command will install an old version, so is something to consider.
 
 ## Install VLC
 

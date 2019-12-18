@@ -108,7 +108,6 @@ sudo apt-get purge midori-granite
 sudo apt-get purge noise
 sudo apt-get purge software-center
 sudo apt-get purge scratch-text-editor
-sudo apt-get purge bluez
 sudo apt-get purge modemmanager
 sudo apt-get autoremove
 sudo apt-get autoclean
@@ -117,7 +116,7 @@ sudo apt-get autoclean
 * Easy copy and Paste:
 
 ```
-sudo apt-get purge midori-granite ; sudo apt-get purge noise ; sudo apt-get purge software-center ; sudo apt-get purge scratch-text-editor ; sudo apt-get purge bluez ; sudo apt-get purge modemmanager ; sudo apt-get autoremove ; sudo apt-get autoclean
+sudo apt-get purge midori-granite ; sudo apt-get purge noise ; sudo apt-get purge software-center ; sudo apt-get purge scratch-text-editor ; sudo apt-get purge modemmanager ; sudo apt-get autoremove ; sudo apt-get autoclean
 ```
 
 ## Install File Compression Libs

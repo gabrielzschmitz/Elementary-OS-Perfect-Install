@@ -1,18 +1,15 @@
 # How to Make the Perfect Elementary OS Install
 
-In this article I will try to instruct you about how to install, update, personalize and install the essencial programs in
-Elementary OS 5.1 Hera.
+In this article I will try to instruct you about how to install, update, personalize and install the essencial programs in Elementary OS 5.1 Hera.
 
 ### Disclaimer
 
-* When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new tab and dont close this 
-article.
+* When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new tab and dont close this article.
 * **Notify me** if you find any **grammatical errors**. My English is not one of the best yet.
 
 ## How to install the system
-* Just [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md) to 
-read and to acess videos about it.
 
+* Just [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md) to read and to acess videos about it.
 
 # After Install Lets Configure It:
 
@@ -45,9 +42,9 @@ sudo apt-get install software-properties-common
 
 ## Get your Favorite Browser
 
-* Chrome
-* Firefox
-* Brave
+* [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#chrome)
+* [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#firefox)
+* [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#brave)
 
 ### Chrome
 

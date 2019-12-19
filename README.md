@@ -38,63 +38,32 @@ sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade sudo apt up
 sudo apt-get install software-properties-common
 ```
 
-### Get your Favorite Browser
-
-* [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#chrome)
-* [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#firefox)
-* [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#brave)
-
-#### Chrome
-
-* Commands:
+### Update Git
 
 ```
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
-sudo apt-get update
-sudo apt-get install google-chrome-stable
+sudo apt-get install git
+```
+
+### Install Snapcraft
+
+```
+sudo apt update
+sudo apt install snapd
 ```
 
 * Easy copy and paste:
 
 ```
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - && sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list' && sudo apt-get update ; sudo apt-get install google-chrome-stable
+sudo apt update ; sudo apt install snapd
 ```
 
-#### FireFox
+### Get your Favorite Browser
 
-* Commands:
-
-```
-sudo add-apt-repository ppa:mozillateam/firefox-next
-sudo apt update
-sudo apt upgrade
-sudo apt install firefox
-```
-
-* Easy copy and Paste:
-
-```
-sudo add-apt-repository ppa:mozillateam/firefox-next && sudo apt update ; sudo apt upgrade ; sudo apt install firefox
-```
-
-#### Brave
-
-* Commands:
-
-```
-sudo apt install apt-transport-https curl
-curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -
-echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list
-sudo apt update
-sudo apt install brave-browser
-```
-
-* Easy copy and Paste:
-
-```
-sudo apt install apt-transport-https curl ; curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add - && echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list && sudo apt update ; sudo apt install brave-browser
-```
+* [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#chrome): the most used browser around the world;
+* [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#firefox): to people that dont want to give money to Google;
+* [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#brave): A very respectful of privacy browser based in Chromium;
+* [Opera](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#opera): other Chromium based browser with alot of factory features;
+* [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/): the always private browser of Elementary OS developers team.
 
 ### Clean-up the System
 

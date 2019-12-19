@@ -1,10 +1,10 @@
 # Summary:
 
-* [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/new/master#chrome): the most used browser around the world;
-* [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/new/master#firefox): to people that dont want to give money to Google;
-* [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/new/master#brave): A very respectful of privacy browser based in Chromium;
-* [Opera](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/new/master#opera): other Chromium based browser with alot of factory features;
-* [Ephemeral](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/new/master#ephemeral/): the always private browser of Elementary OS developers team.
+* [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#chrome): the most used browser around the world;
+* [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#firefox): to people that dont want to give money to Google;
+* [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#brave): a very respectful of privacy browser based in Chromium;
+* [Opera](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#opera): other Chromium based browser with alot of factory features;
+* [Ephemeral](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#ephemeral): the always private browser of Elementary OS developers team.
 
 ### Chrome
 

@@ -81,8 +81,8 @@ It isn’t compatible with some older websites, but Opera is a secure, fast and 
 <img src="pictures/opera.png" width="1280">
 
 * For Opera you need to install Snapcraft too if you dont had installed:
-Their site: https://snapcraft.io/store or [click here](https://snapcraft.io/store)
-Opera in Snapcraft: https://snapcraft.io/install/opera/elementary or [click here](https://snapcraft.io/install/opera/elementary)
+* Their site: https://snapcraft.io/store or [click here](https://snapcraft.io/store)
+* Opera in Snapcraft: https://snapcraft.io/install/opera/elementary or [click here](https://snapcraft.io/install/opera/elementary)
 
 ```
 sudo apt update

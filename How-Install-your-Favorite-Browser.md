@@ -8,6 +8,11 @@
 
 ### Chrome
 
+Google Chrome is one of the best internet browsers because it is easy to use and secure, and it syncs your preferences and bookmarks across multiple devices. However, Chrome is slow 
+compared to other browsers, and it comes in a large file.
+
+![](pictures/chrome.png)
+
 * Commands:
 
 ```
@@ -24,6 +29,11 @@ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-ke
 ```
 
 ### FireFox
+
+Mozilla Firefox is a versatile, feature-rich browser that’s good for both casual browsing and intensive research. It also does a good job of blocking phishing schemes and malware 
+downloads.
+
+![](pictures/firefox.png)
 
 * Commands:
 
@@ -42,6 +52,12 @@ sudo add-apt-repository ppa:mozillateam/firefox-next && sudo apt update ; sudo a
 
 ### Brave
 
+Brave is a web browser which seeks to treat each user as an individual, instead of a “product.” Created by Brendan Eich, one of the originators of the popular Mozilla browser, it seeks to 
+go well beyond Firefox in terms of security and privacy, while retaining its speed and ease of use.  Founded on open source software, Brave is completely free to use (and has a 
+commitment to remain so for the foreseeable future). It’s also ad-free if users prefer, just as you’d hope from a secure browser.
+
+![](pictures/brave.png)
+
 * Commands:
 
 ```
@@ -59,6 +75,10 @@ sudo apt install apt-transport-https curl ; curl -s https://brave-browser-apt-re
 ```
 
 ### Opera
+
+It isn’t compatible with some older websites, but Opera is a secure, fast and feature-rich internet browser worthy of consideration.
+
+![](pictures/opera.png)
 
 * For Opera you need to install Snapcraft too if you dont had installed:
 Their site: https://snapcraft.io/store or [click here](https://snapcraft.io/store)
@@ -79,7 +99,8 @@ sudo apt update ; sudo apt install snapd && sudo snap install opera
 
 ### Ephemeral
 
-Browse the Internet in private without leaving a trace of history on your computer. Ephemeral is a stripped down private browser that's perfect for avoiding persistent cookies or web trackers. Close the window and all traces of your browsing are removed from your device.
+Browse the Internet in private without leaving a trace of history on your computer. Ephemeral is a stripped down private browser that's perfect for avoiding persistent cookies or web 
+trackers. Close the window and all traces of your browsing are removed from your device.
 
 ![](pictures/ephemeral.png)
 

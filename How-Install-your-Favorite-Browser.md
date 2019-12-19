@@ -33,7 +33,7 @@ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-ke
 Mozilla Firefox is a versatile, feature-rich browser that’s good for both casual browsing and intensive research. It also does a good job of blocking phishing schemes and malware 
 downloads.
 
-<img src="pictures/firefoxx.png" width="1280">
+<img src="pictures/firefox.png" width="1280">
 
 * Commands:
 
@@ -102,7 +102,7 @@ sudo apt update ; sudo apt install snapd && sudo snap install opera
 Browse the Internet in private without leaving a trace of history on your computer. Ephemeral is a stripped down private browser that's perfect for avoiding persistent cookies or web 
 trackers. Close the window and all traces of your browsing are removed from your device.
 
-<img src="pictures/ephemerall.png" width="1280">
+<img src="pictures/ephemeral.png" width="1280">
 
 * Just search in App Center
 * Or use the Elementary Os App Center in browser by there: https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/  or clicking [here](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/) 

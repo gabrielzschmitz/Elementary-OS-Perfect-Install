@@ -14,7 +14,7 @@ In this article I will try to instruct you about how to install, update, persona
 ## After Install Lets Configure It:
 
 * Just copy and paste line by line to the Elementary terminal
-* Disclaimer: && its logical operator that execute the other command only if the previous was successfully executed and ; to execute the next command regardless of the success of the previous command. So I have used that to make the copy and paste faster, but I you display all the commands separately too.
+* Disclaimer: "&&" its logical operator that execute the other command only if the previous was successfully executed and ";" to execute the next command regardless of the success of the previous command. So I have used that to make the copy and paste faster, but I you display all the commands separately too.
 
 ### Update the System
 

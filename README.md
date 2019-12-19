@@ -59,11 +59,11 @@ sudo apt update ; sudo apt install snapd
 
 ### Get your Favorite Browser
 
-* [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#chrome): the most used browser around the world;
-* [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#firefox): to people that dont want to give money to Google;
-* [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#brave): A very respectful of privacy browser based in Chromium;
-* [Opera](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#opera): other Chromium based browser with alot of factory features;
-* [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/): the always private browser of Elementary OS developers team.
+* [**Chrome**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#chrome): the most used browser around the world;
+* [**Firefox**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#firefox): to people that dont want to give money to Google;
+* [**Brave**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#brave): a very respectful of privacy browser based in Chromium;
+* [**Opera**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#opera): other Chromium based browser with alot of factory features;
+* [**Ephemeral**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#ephemeral): the always private browser of Elementary OS developers team.
 
 ### Clean-up the System
 

@@ -11,14 +11,12 @@ In this article I will try to instruct you about how to install, update, persona
 
 * Just [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md) to read and to acess videos about it.
 
-# After Install Lets Configure It:
+## After Install Lets Configure It:
 
 * Just copy and paste line by line to the Elementary terminal
-* Disclaimer: && its logical operator that execute the other command only if the previous was successfully executed and ; to 
-execute the next command regardless of the success of the previous command. So I have used that to make the copy and paste 
-faster, but I you display all the commands separately too.
+* Disclaimer: && its logical operator that execute the other command only if the previous was successfully executed and ; to execute the next command regardless of the success of the previous command. So I have used that to make the copy and paste faster, but I you display all the commands separately too.
 
-## Update the System
+### Update the System
 
 * Commands used to:
 
@@ -34,19 +32,19 @@ sudo apt dist-upgrade
 sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade sudo apt update && sudo apt upgrade
 ```
 
-## Enable PPA
+### Enable PPA
 
 ```
 sudo apt-get install software-properties-common
 ```
 
-## Get your Favorite Browser
+### Get your Favorite Browser
 
 * [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#chrome)
 * [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#firefox)
 * [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install#brave)
 
-### Chrome
+#### Chrome
 
 * Commands:
 
@@ -63,7 +61,7 @@ sudo apt-get install google-chrome-stable
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - && sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list' && sudo apt-get update ; sudo apt-get install google-chrome-stable
 ```
 
-### FireFox
+#### FireFox
 
 * Commands:
 
@@ -80,7 +78,7 @@ sudo apt install firefox
 sudo add-apt-repository ppa:mozillateam/firefox-next && sudo apt update ; sudo apt upgrade ; sudo apt install firefox
 ```
 
-### Brave
+#### Brave
 
 * Commands:
 
@@ -98,7 +96,7 @@ sudo apt install brave-browser
 sudo apt install apt-transport-https curl ; curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add - && echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list && sudo apt update ; sudo apt install brave-browser
 ```
 
-## Clean-up the System
+### Clean-up the System
 
 * Commands:
 
@@ -118,13 +116,13 @@ sudo apt-get autoclean
 sudo apt-get purge midori-granite ; sudo apt-get purge noise ; sudo apt-get purge software-center ; sudo apt-get purge scratch-text-editor ; sudo apt-get purge modemmanager ; sudo apt-get autoremove ; sudo apt-get autoclean
 ```
 
-## Install File Compression Libs
+### Install File Compression Libs
 
 ```
 sudo apt-get install unace unrar zip unzip xz-utils p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller
 ```
 
-## Install Elementary Tweaks to personalize
+### Install Elementary Tweaks to personalize
 
 * Commands:
 
@@ -140,34 +138,31 @@ sudo apt-get install elementary-tweaks
 sudo add-apt-repository ppa:philip.scott/elementary-tweaks && sudo apt-get update ; sudo apt-get install elementary-tweaks
 ```
 
-# Install Useful Programs (Only what you need)
+## Install Useful Programs (Only what you need)
 
-## Install Office Suite (Libre Office)
+### Install an Office Suite
 
-* You can dowload it from here: https://www.libreoffice.org/download/download/
-Or install using flatpack: https://flathub.org/apps/details/org.libreoffice.LibreOffice
-Or install by terminal with this command:
+* Microsoft Office is not avaible for linux so install Libre Office an open source project that have the same functionalities of Microsoft product, but for free, only some adaptation is needed
+* You can install by terminal with this command:
 
 ```
 sudo apt install libreoffice
 ```
 
-but the command will install an old version, so is something to consider.
-
-## Install VLC
+#### Install VLC
 
 ```
 sudo apt install vlc
 ```
 
-## Install Gimp and Inkscape
+#### Install Gimp and Inkscape
 
 ```
 sudo apt install gimp
 sudo apt install inkscape
 ```
 
-## Install Multimidea Codecs
+#### Install Multimidea Codecs
 
 * Commands:
 
@@ -183,7 +178,7 @@ sudo apt install libdvd-pkg
 sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; sudo apt install libdvd-pkg
 ```
 
-## Install Java
+#### Install Java
 
 * Commands:
 
@@ -199,43 +194,43 @@ sudo apt-get install oracle-java9-installer
 sudo add-apt-repository -y ppa:webupd8team/java && sudo apt-get update ; sudo apt-get install oracle-java9-installer
 ```
 
-## Install Transmission (Torrent Application)
+#### Install Transmission (Torrent Application)
 
 ```
 sudo apt-get install transmission
 ```
 
-## Install Steam
+#### Install Steam
 
 ```
 sudo apt install steam
 ```
 
-## Install Wine to install Windows programs
+#### Install Wine to install Windows programs
 
 ```
 sudo apt install wine-stable
 ```
 
-## Install Blender (3D Editor)
+#### Install Blender (3D Editor)
 
 ```
 sudo apt install blender
 ```
 
-## Install Kdenlive (Basic Video Editor)
+#### Install Kdenlive (Basic Video Editor)
 
 ```
 sudo apt-get install kdenlive
 ```
 
-## Install Audacity (Audio Editor)
+#### Install Audacity (Audio Editor)
 
 ```
 sudo apt install audacity
 ```
 
-## Install Soundnode (Souncloud Desktop Client)
+#### Install Soundnode (Souncloud Desktop Client)
 
 * Commands:
 
@@ -253,7 +248,7 @@ curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/scri
 ```
 
 
-## Best Apps from App Center
+### Best Apps from App Center
 
 * Best Email Client – Thunderbird
 * Best Free Office Suite – LibreOffice (previously installed)
@@ -263,9 +258,8 @@ curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/scri
 * Best Screen Recorder – OBS
 * Best Torrent Client – Transmission
 * Best FTP Client – FileZilla
-* Best Note Taking App – Notejot
-* Best Video Editing Software – Kdenlive (for Basic Edits, previously installed)Davinci Resolve (for Advanced Edits, 
-download from them site)
+* Best Note Taking App – Notes-up
+* Best Video Editing Software – Kdenlive (for **basic** edits, previously installed)Davinci Resolve (for Advanced Edits, download from them site [here](https://www.blackmagicdesign.com/products/davinciresolve/))
 * Best Download Manager – uGet
 * Best Video Players – VLC
 * Best Google Drive Client – VGrive
@@ -273,7 +267,7 @@ download from them site)
 * Best Media Server Software – Kodi
 * Best Cloud Storage – OwnCloud
 
-## Clean System
+### Clean System
 
 ```
 sudo apt-get autoclean

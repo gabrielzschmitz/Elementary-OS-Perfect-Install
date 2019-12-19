@@ -82,6 +82,11 @@ sudo apt-get install grub-customizer
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer && sudo apt-get update ; sudo apt-get install grub-customizer
 ```
 
+Best theme:
+
+Just [click here](https://www.gnome-look.org/p/1009236/) to download
+
+
 ### Clean-up the System
 
 * Commands:

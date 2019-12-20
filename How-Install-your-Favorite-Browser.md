@@ -1,15 +1,15 @@
 # Summary:
 
-* [Chrome](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#chrome): the most used browser around the world;
-* [Firefox](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#firefox): to people that dont want to give money to Google;
-* [Brave](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#brave): a very respectful of privacy browser based in Chromium;
-* [Opera](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#opera): other Chromium based browser with alot of factory features;
-* [Ephemeral](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#ephemeral): the always-incognito browser of Elementary OS developers team.
+* [**Chrome**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#chrome): the **most** used browser around the world;
+* [**Firefox**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#firefox): to people that **dont** want to **give money** to Google;
+* [**Brave**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#brave): a very **privacy respect** browser based in **Chromium**;
+* [**Opera**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#opera): other **Chromium** based browser with **alot** of factory **features**;
+* [**Ephemeral**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#ephemeral): the **always-incognito** browser of **Elementary OS** developers team.
 
 ### Chrome
 
-Google Chrome is one of the best internet browsers because it is easy to use and secure, and it syncs your preferences and bookmarks across multiple devices. However, Chrome is slow 
-compared to other browsers, and it comes in a large file.
+**Google Chrome** is one of the **best** internet browsers because it is easy to use, and it syncs your preferences and bookmarks across multiple devices. However, Chrome is 
+**slow** compared to other browsers.
 
 <img src="pictures/chrome.png" width="1280">
 
@@ -30,8 +30,8 @@ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-ke
 
 ### FireFox
 
-Mozilla Firefox is a versatile, feature-rich browser that’s good for both casual browsing and intensive research. It also does a good job of blocking phishing schemes and malware 
-downloads.
+**Mozilla Firefox** is a versatile, feature-rich browser that’s good for both **casual** browsing and **intensive** research. It also does a good job of blocking phishing schemes and 
+malware downloads.
 
 <img src="pictures/firefox.png" width="1280">
 
@@ -52,9 +52,9 @@ sudo add-apt-repository ppa:mozillateam/firefox-next && sudo apt update ; sudo a
 
 ### Brave
 
-Brave is a web browser which seeks to treat each user as an individual, instead of a “product.” Created by Brendan Eich, one of the originators of the popular Mozilla browser, it seeks to 
-go well beyond Firefox in terms of security and privacy, while retaining its speed and ease of use.  Founded on open source software, Brave is completely free to use (and has a 
-commitment to remain so for the foreseeable future). It’s also ad-free if users prefer, just as you’d hope from a secure browser.
+**Brave** is a web browser which seeks to treat each user as an **individual**, instead of a **“product”**. Created by Brendan Eich, one of the originators of the popular Mozilla 
+browser, it seeks to go well beyond Firefox in terms of security and privacy, while retaining its speed and ease of use.  Founded on open source software, Brave is completely free to use 
+(and has a commitment to remain so for the foreseeable future). It’s also ad-free if users prefer, just as you’d hope from a secure browser.
 
 <img src="pictures/brave.png" width="1280">
 
@@ -76,7 +76,7 @@ sudo apt install apt-transport-https curl ; curl -s https://brave-browser-apt-re
 
 ### Opera
 
-It isn’t compatible with some older websites, but Opera is a secure, fast and feature-rich internet browser worthy of consideration.
+It isn’t compatible with some older websites, but Opera is a secure, fast and feature-rich internet browser that worthy of consideration.
 
 <img src="pictures/opera.png" width="1280">
 
@@ -99,8 +99,8 @@ sudo apt update ; sudo apt install snapd && sudo snap install opera
 
 ### Ephemeral
 
-Browse the Internet in private without leaving a trace of history on your computer. Ephemeral is a stripped down private browser that's perfect for avoiding persistent cookies or web 
-trackers. Close the window and all traces of your browsing are removed from your device.
+Browse the Internet in **private** without leaving a trace of history on your computer. **Ephemeral** is a stripped down **private** browser that's perfect for avoiding persistent 
+cookies or web trackers. Close the window and **all traces** of your browsing are **removed** from your **device**.
 
 <img src="pictures/ephemeral.png" width="1280">
 

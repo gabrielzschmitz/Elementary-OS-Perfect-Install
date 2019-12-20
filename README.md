@@ -238,6 +238,19 @@ sudo apt-get install soundnode
 curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/script.deb.sh | sudo os=ubuntu dist=xenial bash && sudo apt-get update ; sudo apt-get install soundnode
 ```
 
+### NitroShare
+
+```
+sudo apt-add-repository ppa:george-edison55/nitroshare
+sudo apt-get update
+sudo apt-get install nitroshare
+```
+
+* Easy copy and paste:
+
+```
+sudo apt-add-repository ppa:george-edison55/nitroshare && sudo apt-get update ; sudo apt-get install nitroshare
+```
 
 ### Best Apps from App Center
 

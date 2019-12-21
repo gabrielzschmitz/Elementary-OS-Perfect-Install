@@ -141,6 +141,8 @@ sudo apt install libreoffice
 ```
 
 #### Install VLC
+Click on the image:
+![pictures/vlc.png](https://www.deviantart.com/maverick07x/art/VLC-MinimalX-385698882)
 
 ```
 sudo apt install vlc

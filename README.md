@@ -1,15 +1,15 @@
 # How to Make the Perfect Elementary OS Install
 
-In this article I will try to instruct you about how to install, update, personalize, install the essencial programs and programs recommendations in Elementary OS 5.1 Hera.
+In this article I will try to instruct you about how to install, update, personalize, install the essential programs and programs recommendations in Elementary OS 5.1 Hera.
 
 ### Disclaimer
 
-* When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new tab and dont close this article.
+* When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new tab and don’t close this article.
 * **Notify me** if you find any **grammatical errors**. My English is not one of the best yet.
 
 ## How to install the system
 
-* **Just [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md) to read and to acess videos about it.**
+* **Just [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-the-System.md) to read and to access videos about it.**
 
 ## After Install Lets Configure It:
 
@@ -59,11 +59,12 @@ sudo apt update ; sudo apt install snapd
 
 ### Get your Favorite Browser
 
-* **For** all [**click here**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md);
+**For** a guide to how install all [**click here**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md) or directly click in your favorite:
+
 * [**Chrome**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#chrome): the most used browser around the world;
-* [**Firefox**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#firefox): to people that dont want to give money to Google;
+* [**Firefox**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#firefox): to people that don't want to give money to Google;
 * [**Brave**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#brave): a very respectful of privacy browser based in Chromium;
-* [**Opera**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#opera): other Chromium based browser with alot of factory features;
+* [**Opera**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#opera): other Chromium based browser with a lot of factory features;
 * [**Ephemeral**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#ephemeral): the always-incognito browser of Elementary OS developers team.
 
 ## If you are using a dual boot
@@ -129,11 +130,14 @@ sudo apt-get install elementary-tweaks
 sudo add-apt-repository ppa:philip.scott/elementary-tweaks && sudo apt-get update ; sudo apt-get install elementary-tweaks
 ```
 
-## Install Useful Programs (Only what you need)
+# Install Useful Programs (Only what you need)
 
 ### Install an Office Suite
 
-* Microsoft Office is not avaible for linux so install Libre Office an open source project that have the same functionalities of Microsoft product, but for free, only some adaptation is needed
+* Microsoft Office is not available for Linux so the best alternative to install is Libre Office an open source project that have the same functionalities of Microsoft product, but for free,  you just need to adaptable.
+
+![](pictures/libre-office.png)
+
 * You can install by terminal with this command:
 
 ```
@@ -142,18 +146,48 @@ sudo apt install libreoffice
 
 #### Install VLC
 
+![](pictures/vlc.png)
+
 ```
 sudo apt install vlc
 ```
 
-#### Install Gimp and Inkscape
+For how to make VLC look like mine and get a list of the best themes [click here]()
+
+#### Install GIMP
+
+* For GIMP just download it from [**GIMP**](https://www.gimp.org/downloads/) site by clicking in "Install GIMP flatpak";
+* After the download open the .flatpakref;
+* Wait to the informations be loaded;
+* Check the "I understood" box and click install;
+* After that just wait the program be downloaded and installed.
+
+##### To make GIMP more like Photoshop
+
+If you're more used to Photoshop or if you think that Photoshop is prettier you can make GIMP looks more like it by enabling the single window:
+
+* First click on "Windows" on top panel;
+* And then check "Single-Window Mode".
+
+![](/home/gabrielzschmitz/Documents/ElementaryOS-Perfect-Install/pictures/gimp-single-window-mode.png)
+
+#### Install Inkscape
+
+* For Inkscape you'll need to add they PPA an then just use apt-get install:
 
 ```
-sudo apt install gimp
-sudo apt install inkscape
+sudo add-apt-repository ppa:inkscape.dev/stable
+sudo apt-get update
+sudo apt-get install inkscape
 ```
 
-#### Install Multimidea Codecs
+* Easy copy and Paste:
+
+```
+sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update ; sudo apt-get install inkscape
+```
+
+#### Install Multimedia Codecs
 
 * Commands:
 
@@ -238,27 +272,13 @@ sudo apt-get install soundnode
 curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/script.deb.sh | sudo os=ubuntu dist=xenial bash && sudo apt-get update ; sudo apt-get install soundnode
 ```
 
-### NitroShare
-
-```
-sudo apt-add-repository ppa:george-edison55/nitroshare
-sudo apt-get update
-sudo apt-get install nitroshare
-```
-
-* Easy copy and paste:
-
-```
-sudo apt-add-repository ppa:george-edison55/nitroshare && sudo apt-get update ; sudo apt-get install nitroshare
-```
-
 ### Best Apps from App Center
 
 * Best Email Client – Thunderbird
-* Best Free Office Suite – LibreOffice (previously installed)
-* Best Password Manager – Dashlane(Just Add to the Browser)
+* Best Free Office Suite – Libre Office (previously installed)
+* Best Password Manager – Dashlane (Just Add to the Browser)
 * Best Partition Manager – Gparted
-* Best PDF Editor – LibreOffice Draw
+* Best PDF Editor – Libre Office Draw
 * Best Screen Recorder – OBS
 * Best Torrent Client – Transmission
 * Best FTP Client – FileZilla
@@ -267,7 +287,6 @@ sudo apt-add-repository ppa:george-edison55/nitroshare && sudo apt-get update ; 
 * Best Download Manager – uGet
 * Best Video Players – VLC
 * Best Google Drive Client – VGrive
-* Best Web Browser – Chromium or Google Chrome
 * Best Media Server Software – Kodi
 * Best Cloud Storage – OwnCloud
 

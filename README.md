@@ -152,7 +152,7 @@ sudo apt install libreoffice
 sudo apt install vlc
 ```
 
-For how to make VLC look like mine and get a list of the best themes [click here]()
+For how to make VLC look like mine and get a list of the best themes [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Best-VLC-Themes-and-How-Install-it.md)
 
 #### Install GIMP
 

@@ -169,7 +169,7 @@ If you're more used to Photoshop or if you think that Photoshop is prettier you 
 * First click on "Windows" on top panel;
 * And then check "Single-Window Mode".
 
-![](/home/gabrielzschmitz/Documents/ElementaryOS-Perfect-Install/pictures/gimp-single-window-mode.png)
+![](pictures/gimp-single-window-mode.png)
 
 #### Install Inkscape
 

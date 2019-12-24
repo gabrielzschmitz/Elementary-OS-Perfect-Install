@@ -1,10 +1,10 @@
 # How to Make the Perfect Elementary OS Install
 
-In this article I will try to instruct you about how to install, update, personalize, install the essential programs and programs recommendations in Elementary OS 5.1 Hera.
+In this article I will try to instruct you about **how** to **install**, **update**, **personalize**, install the **essential programs** and **programs recommendations** in **Elementary OS 5.1 Hera**.
 
 ### Disclaimer
 
-* When i use an [blue link like that](https://corgiorgy.com/) click with ctrl to open in a new tab and don’t close this article.
+* When i use an [**blue link like that**](https://corgiorgy.com/) a tip is **click** with **ctrl** to open in a new tab and **don’t close** this article.
 * **Notify me** if you find any **grammatical errors**. My English is not one of the best yet.
 
 ## How to install the system
@@ -13,8 +13,15 @@ In this article I will try to instruct you about how to install, update, persona
 
 ## After Install Lets Configure It:
 
-* Just copy and paste line by line to the Elementary terminal
-* Disclaimer: "&&" its logical operator that execute the other command only if the previous was successfully executed and ";" to execute the next command regardless of the success of the previous command. So I have used that to make the copy and paste faster, but I you display all the commands separately too.
+* Just copy and paste
+
+  ```
+  The commands from this boxes
+  ```
+
+*  to the Elementary terminal
+
+* **Disclaimer:** **"&&"** its **logical operator** that **execute** the **other** command **only** if the **previous** was **successfully** executed and **";"** to execute the **next command regardless** of the **success** of the **previous** command. So I have used that to **make** the **copy and paste faster, but I you display all the commands separately too**.
 
 ### Update the System
 
@@ -34,17 +41,23 @@ sudo apt-get update && sudo apt-get upgrade && sudo apt dist-upgrade sudo apt up
 
 ### Enable PPA
 
+* For security the **Elementary** have **PPA’s disabled** by default, but we gonna need they to **install** a lot of **programs**. Do not worry the PPA’s are disabled **more because** of the** distro purposes than** for **lack** of **security**.
+
 ```
 sudo apt-get install software-properties-common
 ```
 
 ### Update Git
 
+* **Git** is a distributed **version-control** system for **tracking changes** in **source code** **during software development**. But it **can** be **used**** by **non programmers** to **download** and **clone** projects **from github**.
+
 ```
 sudo apt-get install git
 ```
 
 ### Install Snapcraft
+
+* **Snap** is basically one the **app stores** **for linux** that provide you a **long catalog** of **applications** being **required to** download some **items in** this **article**.
 
 ```
 sudo apt update
@@ -59,7 +72,7 @@ sudo apt update ; sudo apt install snapd
 
 ### Get your Favorite Browser
 
-**For** a guide to how install all [**click here**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md) or directly click in your favorite:
+**For** a guide to **how install all** [**click here**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md) or **directly click** in **your favorite**:
 
 * [**Chrome**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#chrome): the most used browser around the world;
 * [**Firefox**](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/How-Install-your-Favorite-Browser.md#firefox): to people that don't want to give money to Google;
@@ -69,7 +82,7 @@ sudo apt update ; sudo apt install snapd
 
 ## If you are using a dual boot
 
-* Install Grub Customizer :
+* Install [**Grub Customizer**](https://launchpad.net/grub-customizer) to , how the name says, **customize Grub**, that is the** menu** to **select** the **operating system** to boot.
 
 ```
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer
@@ -83,30 +96,7 @@ sudo apt-get install grub-customizer
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer && sudo apt-get update ; sudo apt-get install grub-customizer
 ```
 
-Best theme:
-
-Just [click here](https://www.gnome-look.org/p/1009236/) to download
-
-
-### Clean-up the System
-
-* Commands:
-
-```
-sudo apt-get purge midori-granite
-sudo apt-get purge noise
-sudo apt-get purge software-center
-sudo apt-get purge scratch-text-editor
-sudo apt-get purge modemmanager
-sudo apt-get autoremove
-sudo apt-get autoclean
-```
-
-* Easy copy and Paste:
-
-```
-sudo apt-get purge midori-granite ; sudo apt-get purge noise ; sudo apt-get purge software-center ; sudo apt-get purge scratch-text-editor ; sudo apt-get purge modemmanager ; sudo apt-get autoremove ; sudo apt-get autoclean
-```
+* After install a good idea is to **rename** the **“Windows Boot Loader”** **to** **“Windows”** or **“Windows 10”** and **change** the default **Elementary name to** **“Elementary OS”**. And maybe if you **don't like** the default **look of Grub** **download a theme from [Gnome Look](https://www.gnome-look.org/browse/cat/109/)**.
 
 ### Install File Compression Libs
 
@@ -164,7 +154,7 @@ For how to make VLC look like mine and get a list of the best themes [click here
 
 ##### To make GIMP more like Photoshop
 
-* If you're more used to Photoshop or if you think that is prettier I recommend you to install PhotoGIMP a brazilian GIMP modification to make the GIMP experience more like Photoshop.
+* If you're more used to Photoshop or if you think that is prettier I recommend you to install PhotoGIMP a Brazilian GIMP modification to make the GIMP experience more like Photoshop.
 * You can install it using [snap](https://snapcraft.io/photogimp):
 
 ```
@@ -296,8 +286,6 @@ curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/scri
 
 ```
 sudo apt-get autoclean
-
 sudo apt-get clean
-
 sudo apt-get autoremove
 ```

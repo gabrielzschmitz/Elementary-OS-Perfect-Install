@@ -167,11 +167,11 @@ For how to make VLC look like mine and get a list of the best themes [click here
 * If you're more used to Photoshop or if you think that is prettier I recommend you to install PhotoGIMP a brazilian GIMP modification to make the GIMP experience more like Photoshop.
 * You can install it using [snap](https://snapcraft.io/photogimp):
 
-<img src="pictures/photo-GIMP.png" width="819">
-
 ```
 sudo snap install photogimp
 ```
+
+![](pictures/photo-GIMP.png)
 
 #### Install Inkscape
 

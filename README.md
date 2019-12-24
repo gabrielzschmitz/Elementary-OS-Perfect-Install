@@ -82,7 +82,7 @@ sudo apt update ; sudo apt install snapd
 
 ## If you are using a dual boot
 
-* Install [**Grub Customizer**](https://launchpad.net/grub-customizer) to , how the name says, **customize Grub**, that is the** menu** to **select** the **operating system** to boot.
+* Install [**Grub Customizer**](https://launchpad.net/grub-customizer) to , how the name says, **customize Grub**, that is the **menu** to **select** the **operating system** to boot.
 
 ```
 sudo add-apt-repository ppa:danielrichter2007/grub-customizer

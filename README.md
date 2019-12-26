@@ -25,7 +25,7 @@ In this article I will try to instruct you about **how** to **install**, **updat
 
 ### Update the System
 
-* Commands used to:
+* The **first** thing to do **after** a fresh **install** is to **check** if the system have any **update**:
 
 ```
 sudo apt-get update
@@ -57,7 +57,7 @@ sudo apt-get install git
 
 ### Install Snapcraft
 
-* **Snap** is basically one the **app stores** **for linux** that provide you a **long catalog** of **applications** being **required to** download some **items in** this **article**.
+* **Snap** is basically one of the **app stores** **for linux** that provide you a **long catalog** of **applications** being **required to** download some **items in** this **article**.
 
 ```
 sudo apt update
@@ -165,7 +165,7 @@ sudo snap install photogimp
 
 #### Install Inkscape
 
-* For Inkscape you'll need to add they PPA an then just use apt-get install:
+* As **like GIMP**, **Inkscape is** a **Linux free** and **open-source** **vector** graphics **editor** **alternative to Illustrator**. For **Inkscape** you'll **need** to **add** they **PPA** and **then** just use **apt-get install**:
 
 ```
 sudo add-apt-repository ppa:inkscape.dev/stable
@@ -181,7 +181,7 @@ sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update ; sudo ap
 
 #### Install Multimedia Codecs
 
-* Commands:
+* To be able to open all media codecs, watch and listen all your files you'll need to install this 3 multimidia codecs:
 
 ```
 sudo apt install ubuntu-restricted-extras

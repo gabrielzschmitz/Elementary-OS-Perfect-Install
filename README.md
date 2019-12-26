@@ -213,11 +213,15 @@ sudo add-apt-repository -y ppa:webupd8team/java && sudo apt-get update ; sudo ap
 
 #### Install Transmission (Torrent Application)
 
+![](pictures/transmission.png)
+
 ```
 sudo apt-get install transmission
 ```
 
 #### Install Steam
+
+![](pictures/steam.png)
 
 ```
 sudo apt install steam
@@ -225,17 +229,23 @@ sudo apt install steam
 
 #### Install Wine to install Windows programs
 
+![](pictures/.png)
+
 ```
 sudo apt install wine-stable
 ```
 
 #### Install Blender (3D Editor)
 
+![](pictures/blender.png)
+
 ```
 sudo apt install blender
 ```
 
 #### Install Kdenlive (Basic Video Editor)
+
+![](pictures/kdenlive.png)
 
 ```
 sudo apt-get install kdenlive
@@ -248,6 +258,8 @@ sudo apt install kde-runtime
 ```
 
 #### Install Audacity (Audio Editor)
+
+![](pictures/audacity.png)
 
 ```
 sudo apt install audacity

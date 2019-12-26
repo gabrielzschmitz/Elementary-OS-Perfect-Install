@@ -241,6 +241,12 @@ sudo apt install blender
 sudo apt-get install kdenlive
 ```
 
+For dark theme:
+
+```
+sudo apt install kde-runtime
+```
+
 #### Install Audacity (Audio Editor)
 
 ```

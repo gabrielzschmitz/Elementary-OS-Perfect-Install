@@ -125,7 +125,23 @@ sudo apt-get install elementary-tweaks
 sudo add-apt-repository ppa:philip.scott/elementary-tweaks && sudo apt-get update ; sudo apt-get install elementary-tweaks
 ```
 
-# Install Useful Programs (Only what you need)
+### Install Multimedia Codecs
+
+* To be **able** to **open all media codecs**, **watch** and **listen** all your **files** you'll need to **install** this 3 **multimidia codecs**.
+
+```
+sudo apt install ubuntu-restricted-extras
+sudo apt install libavcodec-extra
+sudo apt install libdvd-pkg
+```
+
+* Easy **copy and paste**:
+
+```
+sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; sudo apt install libdvd-pkg
+```
+
+## Install Useful Programs (Only what you need)
 
 ### Install an Office Suite
 
@@ -139,7 +155,7 @@ sudo add-apt-repository ppa:philip.scott/elementary-tweaks && sudo apt-get updat
 sudo apt install libreoffice
 ```
 
-#### Install VLC
+### Install VLC
 
 * **VLC** is the **best video player** for basically all the **operational system** and to **Linux** is **not different**.
 
@@ -151,7 +167,7 @@ sudo apt install vlc
 
 * For **how to** make **VLC look like mine** and get a **list of** the **best themes** [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Best-VLC-Themes-and-How-Install-it.md)
 
-#### Install GIMP
+### Install GIMP
 
 * For **GIMP** just **download it** from [**GIMP**](https://www.gimp.org/downloads/) site by clicking in **"Install GIMP flatpak"**;
 * **After** **the download open** the **.flatpakref**;
@@ -159,7 +175,7 @@ sudo apt install vlc
 * **Check** the **"I understood"** box and **click install**;
 * **After that** just **wait** the program **be downloaded and installed**.
 
-##### To make GIMP more like Photoshop
+#### To make GIMP more like Photoshop
 
 * If you're **more used** to **Photoshop** or if you think that is prettier I recommend you to **install PhotoGIMP** a **Brazilian GIMP modification** to **make** the **GIMP** experience more **like Photoshop**.
 * You can **install it** using [snap](https://snapcraft.io/photogimp):
@@ -170,7 +186,7 @@ sudo apt install vlc
 sudo snap install photogimp
 ```
 
-#### Install Inkscape
+### Install Inkscape
 
 * As **like GIMP**, **Inkscape is** a **Linux free** and **open-source** **vector** graphics **editor** **alternative to Illustrator**. For **Inkscape** you'll **need** to **add** they **PPA** and **then** just use **apt-get install**:
 
@@ -188,23 +204,7 @@ sudo apt-get install inkscape
 sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update ; sudo apt-get install inkscape
 ```
 
-#### Install Multimedia Codecs
-
-* To be **able** to **open all media codecs**, **watch** and **listen** all your **files** you'll need to **install** this 3 **multimidia codecs**.
-
-```
-sudo apt install ubuntu-restricted-extras
-sudo apt install libavcodec-extra
-sudo apt install libdvd-pkg
-```
-
-* Easy **copy and paste**:
-
-```
-sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; sudo apt install libdvd-pkg
-```
-
-#### Install Transmission (Torrent Application)
+### Install Transmission (Torrent Application)
 
 ![](pictures/transmission.png)
 
@@ -212,7 +212,7 @@ sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; 
 sudo apt-get install transmission
 ```
 
-#### Install Steam
+### Install Steam
 
 ![](pictures/steam.png)
 
@@ -220,15 +220,13 @@ sudo apt-get install transmission
 sudo apt install steam
 ```
 
-#### Install Wine to install Windows programs
-
-![](pictures/.png)
+### Install Wine to install Windows programs
 
 ```
 sudo apt install wine-stable
 ```
 
-#### Install Blender (3D Editor)
+### Install Blender (3D Editor)
 
 ![](pictures/blender.png)
 
@@ -236,7 +234,7 @@ sudo apt install wine-stable
 sudo apt install blender
 ```
 
-#### Install Kdenlive (Basic Video Editor)
+### Install Kdenlive (Basic Video Editor)
 
 ![](pictures/kdenlive.png)
 
@@ -250,7 +248,7 @@ sudo apt-get install kdenlive
 sudo apt install kde-runtime
 ```
 
-#### Install Audacity (Audio Editor)
+### Install Audacity (Audio Editor)
 
 ![](pictures/audacity.png)
 
@@ -258,7 +256,7 @@ sudo apt install kde-runtime
 sudo apt install audacity
 ```
 
-#### Install Soundnode (Souncloud Desktop Client)
+### Install Soundnode (Souncloud Desktop Client)
 
 * Commands:
 

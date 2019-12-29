@@ -108,7 +108,7 @@ sudo apt-get install unace unrar zip unzip xz-utils p7zip-full p7zip-rar sharuti
 
 ### Install Elementary Tweaks to personalize
 
-* A **theme manager** is **missing** in **Elementary**, but by installing **Elementary Tweaks** you can use both themes and various visual options.
+* A **theme manager** is **missing** in **Elementary**, but by installing **Elementary Tweaks** you **can use** both **themes** and various **visual options**.
 * **After install** a **Tweaks** tab will appear in **system options**.
 
 ![](pictures/elementary-tweaks.png)

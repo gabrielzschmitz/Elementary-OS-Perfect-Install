@@ -204,7 +204,9 @@ sudo apt-get install inkscape
 sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update ; sudo apt-get install inkscape
 ```
 
-### Install Transmission (Torrent Application)
+### Install Transmission
+
+* **Transmission** is the **best free Torrent client** for **Linux**, so **if you need** to download or upload torrent just **install it**.
 
 ![](pictures/transmission.png)
 
@@ -214,6 +216,8 @@ sudo apt-get install transmission
 
 ### Install Steam
 
+* **Steam** is a video game digital distribution service by **Valve**, but **everyone knows** so thats the **command** to **install it**:
+
 ![](pictures/steam.png)
 
 ```
@@ -222,11 +226,15 @@ sudo apt install steam
 
 ### Install Wine to install Windows programs
 
+* Wine is not an Emulator(Wine) is a free and open-source compatibility layer that aims to allow computer programs developed for Microsoft Windows to run on  Linux, macOS, & BSD.
+
 ```
 sudo apt install wine-stable
 ```
 
 ### Install Blender (3D Editor)
+
+* **Blender** is a **free 3D modelling and animation suite** and is one of the best 3d editor for Linux and even to macOS and Windows.
 
 ![](pictures/blender.png)
 
@@ -236,13 +244,15 @@ sudo apt install blender
 
 ### Install Kdenlive (Basic Video Editor)
 
+* Kdenlive is a free and open-source basic video editing software, which has enough features for most of nonprofessional edits.
+
 ![](pictures/kdenlive.png)
 
 ```
 sudo apt-get install kdenlive
 ```
 
-* For dark theme:
+* For dark theme use the command below to install Kdenlive Runtime and then on the toolbar goes Settings->Theme->Breeze Dark and Settings->Style->Breeze.
 
 ```
 sudo apt install kde-runtime
@@ -250,27 +260,12 @@ sudo apt install kde-runtime
 
 ### Install Audacity (Audio Editor)
 
+* Audacity is the best digital audio editor and recording software in the market, Besides that, to improve is free and open-source.
+
 ![](pictures/audacity.png)
 
 ```
 sudo apt install audacity
-```
-
-### Install Soundnode (Souncloud Desktop Client)
-
-* Commands:
-
-```
-curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/script.deb.sh | sudo os=ubuntu dist=xenial bash
-sudo apt-get update
-sudo apt-get install soundnode
-
-```
-
-* Easy **copy and paste**:
-
-```
-curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/script.deb.sh | sudo os=ubuntu dist=xenial bash && sudo apt-get update ; sudo apt-get install soundnode
 ```
 
 ### Best Apps from App Center
@@ -293,8 +288,15 @@ curl -s https://packagecloud.io/install/repositories/JonasGroeger/soundnode/scri
 
 ### Clean System
 
+* After all this program installations and downloads a good idea is to clean up the system
+
 ```
 sudo apt-get autoclean
-sudo apt-get clean
 sudo apt-get autoremove
+```
+
+* Easy **copy and paste**:
+
+```
+sudo apt-get autoclean ; sudo apt-get autoremove
 ```

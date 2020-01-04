@@ -241,7 +241,7 @@ sudo apt install steam
 
 #### Install Wine to install Windows programs
 
-* **Wine is not an Emulator(Wine)** is a **free and open-source** compatibility layer that aims to **allow** computer **programs** developed for **Microsoft Windows** to **run on  Linux, macOS, & BSD**0.
+* **Wine is not an Emulator(Wine)** is a **free and open-source** compatibility layer that aims to **allow** computer **programs** developed for **Microsoft Windows** to **run on  Linux, macOS, & BSD**.
 
 ```
 sudo apt install wine-stable

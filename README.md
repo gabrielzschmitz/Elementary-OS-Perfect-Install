@@ -16,7 +16,7 @@ In this article I will try to instruct you about **how** to **install**, **updat
 Just **copy and paste**
 
   ```
-  The **commands** from **this boxes**
+  The commands from this boxes
   ```
 
 to the **Elementary terminal**
@@ -143,7 +143,22 @@ sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; 
 
 ## Install Useful Programs (Only what you need)
 
-### Install an Office Suite
+### Summary
+
+* Thunderbird
+* Libre Office
+* Dashlane (Just Add to the Browser)
+* Gparted
+* OBS
+* Transmission
+* Notes-up
+* Kdenlive (for **basic** edits)
+* Davinci Resolve (for Advanced Edits, download from them site [here](https://www.blackmagicdesign.com/products/davinciresolve/))
+* uGet
+* VLC
+* VGrive
+
+#### Install an Office Suite
 
 * **Microsoft Office** is **not available for Linux** so the best alternative to install is **Libre Office** an **open-source** project that have the **same functionalities** of **Microsoft** product, but for **free**,  you just **need** to **adaptable**.
 
@@ -155,7 +170,7 @@ sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; 
 sudo apt install libreoffice
 ```
 
-### Install VLC
+#### Install VLC
 
 * **VLC** is the **best video player** for basically all the **operational system** and to **Linux** is **not different**.
 
@@ -167,7 +182,7 @@ sudo apt install vlc
 
 * For **how to** make **VLC look like mine** and get a **list of** the **best themes** [click here](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Best-VLC-Themes-and-How-Install-it.md)
 
-### Install GIMP
+#### Install GIMP
 
 * For **GIMP** just **download it** from [**GIMP**](https://www.gimp.org/downloads/) site by clicking in **"Install GIMP flatpak"**;
 * **After** **the download open** the **.flatpakref**;
@@ -175,7 +190,7 @@ sudo apt install vlc
 * **Check** the **"I understood"** box and **click install**;
 * **After that** just **wait** the program **be downloaded and installed**.
 
-#### To make GIMP more like Photoshop
+##### To make GIMP more like Photoshop
 
 * If you're **more used** to **Photoshop** or if you think that is prettier I recommend you to **install PhotoGIMP** a **Brazilian GIMP modification** to **make** the **GIMP** experience more **like Photoshop**.
 * You can **install it** using [snap](https://snapcraft.io/photogimp):
@@ -186,7 +201,7 @@ sudo apt install vlc
 sudo snap install photogimp
 ```
 
-### Install Inkscape
+#### Install Inkscape
 
 * As **like GIMP**, **Inkscape is** a **Linux free** and **open-source** **vector** graphics **editor** **alternative to Illustrator**. For **Inkscape** you'll **need** to **add** they **PPA** and **then** just use **apt-get install**:
 
@@ -204,7 +219,7 @@ sudo apt-get install inkscape
 sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update ; sudo apt-get install inkscape
 ```
 
-### Install Transmission
+#### Install Transmission
 
 * **Transmission** is the **best free Torrent client** for **Linux**, so **if you need** to download or upload torrent just **install it**.
 
@@ -214,9 +229,9 @@ sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update ; sudo ap
 sudo apt-get install transmission
 ```
 
-### Install Steam
+#### Install Steam
 
-* **Steam** is a video game digital distribution service by **Valve**, but **everyone knows** so thats the **command** to **install it**:
+* **Steam** is a **video game digital distribution service** by **Valve**, but **everyone knows** so thats the **command** to **install it**:
 
 ![](pictures/steam.png)
 
@@ -224,17 +239,17 @@ sudo apt-get install transmission
 sudo apt install steam
 ```
 
-### Install Wine to install Windows programs
+#### Install Wine to install Windows programs
 
-* Wine is not an Emulator(Wine) is a free and open-source compatibility layer that aims to allow computer programs developed for Microsoft Windows to run on  Linux, macOS, & BSD.
+* **Wine is not an Emulator(Wine)** is a **free and open-source** compatibility layer that aims to **allow** computer **programs** developed for **Microsoft Windows** to **run on  Linux, macOS, & BSD**0.
 
 ```
 sudo apt install wine-stable
 ```
 
-### Install Blender (3D Editor)
+#### Install Blender (3D Editor)
 
-* **Blender** is a **free 3D modelling and animation suite** and is one of the best 3d editor for Linux and even to macOS and Windows.
+* **Blender** is a **free 3D modelling and animation suite** and is one of the **best 3d editor** for **Linux** and even to **macOS and Windows**.
 
 ![](pictures/blender.png)
 
@@ -242,9 +257,9 @@ sudo apt install wine-stable
 sudo apt install blender
 ```
 
-### Install Kdenlive (Basic Video Editor)
+#### Install Kdenlive (Basic Video Editor)
 
-* Kdenlive is a free and open-source basic video editing software, which has enough features for most of nonprofessional edits.
+* **Kdenlive** is a **free and open-source basic video editing software**, which has **enough features** for most of **nonprofessional edits**.
 
 ![](pictures/kdenlive.png)
 
@@ -252,15 +267,15 @@ sudo apt install blender
 sudo apt-get install kdenlive
 ```
 
-* For dark theme use the command below to install Kdenlive Runtime and then on the toolbar goes Settings->Theme->Breeze Dark and Settings->Style->Breeze.
+* For **dark theme** use the **command below** to install Kdenlive Runtime and **then** on the **toolbar** goes **Settings->Theme->Breeze Dark** and **Settings->Style->Breeze**.
 
 ```
 sudo apt install kde-runtime
 ```
 
-### Install Audacity (Audio Editor)
+#### Install Audacity (Audio Editor)
 
-* Audacity is the best digital audio editor and recording software in the market, Besides that, to improve is free and open-source.
+* **Audacity** is the **best digital audio editor and recording software** in the market, Besides that, to improve is **free and open-source**.
 
 ![](pictures/audacity.png)
 
@@ -268,27 +283,10 @@ sudo apt install kde-runtime
 sudo apt install audacity
 ```
 
-### Best Apps from App Center
 
-* Best Email Client – Thunderbird
-* Best Free Office Suite – Libre Office (previously installed)
-* Best Password Manager – Dashlane (Just Add to the Browser)
-* Best Partition Manager – Gparted
-* Best PDF Editor – Libre Office Draw
-* Best Screen Recorder – OBS
-* Best Torrent Client – Transmission
-* Best FTP Client – FileZilla
-* Best Note Taking App – Notes-up
-* Best Video Editing Software – Kdenlive (for **basic** edits, previously installed)Davinci Resolve (for Advanced Edits, download from them site [here](https://www.blackmagicdesign.com/products/davinciresolve/))
-* Best Download Manager – uGet
-* Best Video Players – VLC
-* Best Google Drive Client – VGrive
-* Best Media Server Software – Kodi
-* Best Cloud Storage – OwnCloud
+## Clean System
 
-### Clean System
-
-* After all this program installations and downloads a good idea is to clean up the system
+* **After all this** program installations and downloads a **good idea** is to **clean up the system**:
 
 ```
 sudo apt-get autoclean

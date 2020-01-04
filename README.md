@@ -145,18 +145,24 @@ sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; 
 
 ### Summary
 
-* Thunderbird
-* Libre Office
-* Dashlane (Just Add to the Browser)
-* Gparted
-* OBS
-* Transmission
-* Notes-up
-* Kdenlive (for **basic** edits)
-* Davinci Resolve (for Advanced Edits, download from them site [here](https://www.blackmagicdesign.com/products/davinciresolve/))
-* uGet
-* VLC
-* VGrive
+* [Thunderbird]
+* [Libre Office](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-an-office-suite)
+* [GIMP](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-gimp)
+* [Dashlane]
+* [Audacity](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-audacity-audio-editor)
+* [Inkscape](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-inkscape)
+* [Gparted]
+* [OBS]
+* [Blender](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-blender-3d-editor)
+* [Wine](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-wine-to-install-windows-programs)
+* [Transmission](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-transmission)
+* [Steam](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-steam)
+* [Notes-up]
+* [Kdenlive (for **basic** edits)](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-kdenlive-basic-video-editor)
+* [Davinci Resolve (for Advanced Edits)](https://www.blackmagicdesign.com/products/davinciresolve/))
+* [uGet]
+* [VLC](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-vlc)
+* [VGrive]
 
 #### Install an Office Suite
 

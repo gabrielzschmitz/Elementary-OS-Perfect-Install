@@ -3,22 +3,22 @@
 ## Summary
 
 * [Thunderbird]
-* [Libre Office](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-an-office-suite)
-* [GIMP](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-gimp)
+* [Libre Office](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-an-office-suite)
+* [GIMP](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-gimp)
 * [Dashlane]
-* [Audacity](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-audacity-audio-editor)
-* [Inkscape](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-inkscape)
+* [Audacity](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-audacity)
+* [Inkscape](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-inkscape)
 * [Gparted]
 * [OBS]
-* [Blender](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-blender-3d-editor)
-* [Wine](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-wine-to-install-windows-programs)
-* [Transmission](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-transmission)
-* [Steam](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-steam)
+* [Blender](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-blender-3d-editor)
+* [Wine](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-wine-to-install-windows-programs)
+* [Transmission](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-transmission)
+* [Steam](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-steam)
 * [Notes-up]
-* [Kdenlive (for **basic** edits)](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-kdenlive-basic-video-editor)
+* [Kdenlive (for **basic** edits)](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-kdenlive-basic-video-editor)
 * [Davinci Resolve (for Advanced Edits)](https://www.blackmagicdesign.com/products/davinciresolve/))
 * [uGet]
-* [VLC](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/README.md#install-vlc)
+* [VLC](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-vlc)
 * [VGrive]
 
 ### Install an Office Suite
@@ -48,10 +48,16 @@ sudo apt install vlc
 ### Install GIMP
 
 * For **GIMP** just **download it** from [**GIMP**](https://www.gimp.org/downloads/) site by clicking in **"Install GIMP flatpak"**;
+
 * **After** **the download open** the **.flatpakref**;
+
 * **Wait** to the **informations** be loaded;
+
 * **Check** the **"I understood"** box and **click install**;
+
 * **After that** just **wait** the program **be downloaded and installed**.
+
+  ![](pictures/GIMP.png)
 
 #### To make GIMP more like Photoshop
 

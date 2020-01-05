@@ -57,7 +57,7 @@ sudo apt install vlc
 
 * **After that** just **wait** the program **be downloaded and installed**.
 
-  ![](pictures/GIMP.png)
+![](pictures/GIMP.png)
 
 #### To make GIMP more like Photoshop
 

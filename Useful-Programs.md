@@ -25,7 +25,7 @@
 
 * **Microsoft Office** is **not available for Linux** so the best alternative to install is **Libre Office** an **open-source** project that have the **same functionalities** of **Microsoft** product, but for **free**,  you just **need** to **adaptable**.
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/libre-office.png)
+![](pictures/libre-office.png)
 
 * You can **install** by terminal **with this command**:
 
@@ -37,7 +37,7 @@ sudo apt install libreoffice
 
 * **VLC** is the **best video player** for basically all the **operational system** and to **Linux** is **not different**.
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/vlc.png)
+![](pictures/vlc.png)
 
 ```
 sudo apt install vlc
@@ -58,7 +58,7 @@ sudo apt install vlc
 * If you're **more used** to **Photoshop** or if you think that is prettier I recommend you to **install PhotoGIMP** a **Brazilian GIMP modification** to **make** the **GIMP** experience more **like Photoshop**.
 * You can **install it** using [snap](https://snapcraft.io/photogimp):
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/photo-GIMP.png)
+![](pictures/photo-GIMP.png)
 
 ```
 sudo snap install photogimp
@@ -68,7 +68,7 @@ sudo snap install photogimp
 
 * As **like GIMP**, **Inkscape is** a **Linux free** and **open-source** **vector** graphics **editor** **alternative to Illustrator**. For **Inkscape** you'll **need** to **add** they **PPA** and **then** just use **apt-get install**:
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/inkscape.png)
+![](pictures/inkscape.png)
 
 ```
 sudo add-apt-repository ppa:inkscape.dev/stable
@@ -86,7 +86,7 @@ sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update ; sudo ap
 
 * **Transmission** is the **best free Torrent client** for **Linux**, so **if you need** to download or upload torrent just **install it**.
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/transmission.png)
+![](pictures/transmission.png)
 
 ```
 sudo apt-get install transmission
@@ -96,7 +96,7 @@ sudo apt-get install transmission
 
 * **Steam** is a **video game digital distribution service** by **Valve**, but **everyone knows** so thats the **command** to **install it**:
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/steam.png)
+![](pictures/steam.png)
 
 ```
 sudo apt install steam
@@ -114,7 +114,7 @@ sudo apt install wine-stable
 
 * **Blender** is a **free 3D modelling and animation suite** and is one of the **best 3d editor** for **Linux** and even to **macOS and Windows**.
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/blender.png)
+![](pictures/blender.png)
 
 ```
 sudo apt install blender
@@ -124,7 +124,7 @@ sudo apt install blender
 
 * **Kdenlive** is a **free and open-source basic video editing software**, which has **enough features** for most of **nonprofessional edits**.
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/kdenlive.png)
+![](pictures/kdenlive.png)
 
 ```
 sudo apt-get install kdenlive
@@ -140,9 +140,8 @@ sudo apt install kde-runtime
 
 * **Audacity** is the **best digital audio editor and recording software** in the market, Besides that, to improve is **free and open-source**.
 
-![](/home/gabrielzschmitz/Documents/Elementary-OS-Perfect-Install/pictures/audacity.png)
+![](pictures/audacity.png)
 
 ```
 sudo apt install audacity
 ```
-

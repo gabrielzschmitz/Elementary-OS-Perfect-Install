@@ -148,7 +148,7 @@ sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; 
 #### [Libre Office](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-an-office-suite)
 <img src="pictures/libre-office.png" width="400">
 
-####[GIMP](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-gimp)
+#### [GIMP](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-gimp)
 <img src="pictures/GIMP.png" width="400">
 
 #### [Audacity](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-audacity-audio-editor)
@@ -161,7 +161,6 @@ sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; 
 <img src="pictures/blender.png" width="400">
 
 #### [Wine](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-wine-to-install-windows-programs)
-<img src="pictures/wine.png" width="400">
 
 #### [Transmission](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-transmission)
 <img src="pictures/transmission.png" width="400">

@@ -145,44 +145,37 @@ sudo apt install ubuntu-restricted-extras ; sudo apt install libavcodec-extra ; 
 
 ### Summary
 
-* [Thunderbird]
-* [Libre Office](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-an-office-suite)
+#### [Libre Office](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-an-office-suite)
 <img src="pictures/libre-office.png" width="400">
 
-* [GIMP](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-gimp)
+####[GIMP](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-gimp)
 <img src="pictures/GIMP.png" width="400">
 
-* [Dashlane]
-* [Audacity](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-audacity-audio-editor)
+#### [Audacity](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-audacity-audio-editor)
 <img src="pictures/audacity.png" width="400">
 
-* [Inkscape](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-inkscape)
+#### [Inkscape](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-inkscape)
 <img src="pictures/inkscape.png" width="400">
 
-* [Gparted]
-* [OBS]
-* [Blender](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-blender-3d-editor)
+#### [Blender](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-blender-3d-editor)
 <img src="pictures/blender.png" width="400">
 
-* [Wine](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-wine-to-install-windows-programs)
+#### [Wine](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-wine-to-install-windows-programs)
 <img src="pictures/wine.png" width="400">
 
-* [Transmission](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-transmission)
+#### [Transmission](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-transmission)
 <img src="pictures/transmission.png" width="400">
 
-* [Steam](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-steam)
+#### [Steam](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-steam)
 <img src="pictures/steam.png" width="400">
 
-* [Notes-up]
-* [Kdenlive (for **basic** edits)](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-kdenlive-basic-video-editor)
+#### [Kdenlive (for **basic** edits)](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-kdenlive-basic-video-editor)
 <img src="pictures/kdenlive.png" width="400">
 
-* [Davinci Resolve (for Advanced Edits)](https://www.blackmagicdesign.com/products/davinciresolve/))
-* [uGet]
-* [VLC](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-vlc)
-<img src="pictures/vlc.png" width="400">
+#### [Davinci Resolve (for Advanced Edits)](https://www.blackmagicdesign.com/products/davinciresolve/))
 
-* [VGrive]
+#### [VLC](https://github.com/gabrielzschmitz/Elementary-OS-Perfect-Install/blob/master/Useful-Programs.md#install-vlc)
+<img src="pictures/vlc.png" width="400">
 
 ## Clean System
 
